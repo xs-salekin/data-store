@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "data": {
+      "list": [
+        {
+        	"inputText": "Input context",
+          	"genieText": "Genie generated text",
+          	"date": "2022/11/23 at 10:7 am",
+          	"user": "Admin",
+          	"creativityLevel": 2
+        },
+        {
+        	"inputText": "Input context 2",
+          	"genieText": "Genie generated text 2",
+          	"date": "2021/11/24 at 10:7 am",
+          	"user": "John",
+          	"creativityLevel": 5
+        }
+      ]
+    },
+    "message": [
+        "History list has been featched  successfully."
+    ],
+    "traceCode": ""
+}
