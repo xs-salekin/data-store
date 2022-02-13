@@ -2,17 +2,17 @@
     "status": "success",
     "data": {
       "list": [
+         {
+          "value": 1,
+          "label": "admin 1"
+        },
+	    {
+          "value": 2,
+          "label": "admin 2"
+        },
         {
-        	"wpUser": 1,
-          "wpUserName": "admin 1"
-        },
-         {
-        	"wpUser": 2,
-          "wpUserName": "admin 2"
-        },
-         {
-        	"wpUser": 3,
-          "wpUserName": "admin 3"
+          "value": 3,
+          "label": "admin 3"
         }
       ]
     },
