@@ -1,0 +1,84 @@
+{
+    "status": "success",
+    "data": {
+        "analysisData": {
+            "searchVolume": {
+                "total": "4.98k",
+                "lastMonth": "120,000",
+                "avg12Month": "242,000",
+                "highest": "22,000",
+                "lowest": "12,000"
+            },
+            "competition": "Low",
+            "cpc": "$ 3.30"
+        },
+        "charts": [
+            {
+                "title": "Search Vol. Trend",
+                "data": [
+                    { "date": "1/2022", "volume": 160 },
+                    { "date": "12/2021", "volume": 130 },
+                    { "date": "11/2021", "volume": 120 },
+                    { "date": "10/2021", "volume": 150 },
+                    { "date": "9/2021", "volume": 120 },
+                    { "date": "8/2021", "volume": 140 },
+                    { "date": "7/2021", "volume": 160 },
+                    { "date": "6/2021", "volume": 150 },
+                    { "date": "5/2021", "volume": 160 },
+                    { "date": "4/2021", "volume": 140 },
+                    { "date": "3/2021", "volume": 160 },
+                    { "date": "2/2021", "volume": 140 }
+                ]
+            },
+            {
+                "title": "Google Trends",
+                "data": [
+                    { "date": "12/2021", "volume": 130 },
+                    { "date": "11/2021", "volume": 120 },
+                    { "date": "10/2021", "volume": 150 },
+                    { "date": "6/2021", "volume": 150 },
+                    { "date": "5/2021", "volume": 180 },
+                    { "date": "4/2021", "volume": 190 },
+                    { "date": "3/2021", "volume": 160 },
+                    { "date": "2/2021", "volume": 140 }
+                ]
+            }
+        ],
+        "relatedKeyword": [
+            {
+                "keyword": "Free Blog",
+                "cpc": "$ 40.00",
+                "searchVolume": "Vol. 320.000"
+            },
+            {
+                "keyword": "Blog writing wizard",
+                "cpc": "$ 40.00",
+                "searchVolume": "Vol. 180.000"
+            },
+            {
+                "keyword": "Blog writing wizard",
+                "cpc": "$ 40.00",
+                "searchVolume": "Vol. 180.000"
+            },
+            {
+                "keyword": "Blog writing wizard",
+                "cpc": "$ 40.00",
+                "searchVolume": "Vol. 180.000"
+            },
+            {
+                "keyword": "Blog writing wizard",
+                "cpc": "$ 40.00",
+                "searchVolume": "Vol. 180.000"
+            },
+            {
+                "keyword": "Blog writing wizard",
+                "cpc": "$ 40.00",
+                "searchVolume": "Vol. 180.000"
+            }
+        ]
+    },
+    "message": [
+        "keyword Analyze list has been fetched successfully."
+    ],
+    "traceCode": ""
+}
