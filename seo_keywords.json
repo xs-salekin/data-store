@@ -16,18 +16,18 @@
             {
                 "title": "Search Vol. Trend",
                 "data": [
-                    { "date": "1/2022", "volume": 160 },
-                    { "date": "12/2021", "volume": 130 },
-                    { "date": "11/2021", "volume": 120 },
-                    { "date": "10/2021", "volume": 150 },
-                    { "date": "9/2021", "volume": 120 },
-                    { "date": "8/2021", "volume": 140 },
-                    { "date": "7/2021", "volume": 160 },
-                    { "date": "6/2021", "volume": 150 },
-                    { "date": "5/2021", "volume": 160 },
-                    { "date": "4/2021", "volume": 140 },
-                    { "date": "3/2021", "volume": 160 },
-                    { "date": "2/2021", "volume": 140 }
+                    { "date": "1/2022", "volume": "27K" },
+                    { "date": "12/2021", "volume": "21K" },
+                    { "date": "11/2021", "volume": "19K" },
+                    { "date": "10/2021", "volume": "14K" },
+                    { "date": "9/2021", "volume": "67K" },
+                    { "date": "8/2021", "volume": "17K" },
+                    { "date": "7/2021", "volume": "13K" },
+                    { "date": "6/2021", "volume": "14K" },
+                    { "date": "5/2021", "volume": "32K" },
+                    { "date": "4/2021", "volume": "21K" },
+                    { "date": "3/2021", "volume": "11K" },
+                    { "date": "2/2021", "volume": "32K" }
                 ]
             },
             {
