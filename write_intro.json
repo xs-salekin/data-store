@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "data": {
+        "content": [
+            "Is wordpress blog free?",
+            "What is wordprss blog?",
+            "How to write wordpress blog?"
+        ]
+    },
+    "message": [
+        "Generate intro list has been featched successfully."
+    ],
+    "traceCode": ""
+}
