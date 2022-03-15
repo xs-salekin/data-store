@@ -3,15 +3,15 @@
 		"keywords": [
 			{
 				"keyword": "elementor addons",
-				"maxUse": 8
+				"usage": [3,8]
 			},
 			{
 				"keyword": "essential addons for elementor",
-				"maxUse": 8
+				"usage": [3,8]
 			},
 			{
 				"keyword": "ultimate addons for elementor",
-				"maxUse": 6
+				"usage": [2,6]
 			}
 		],
 		"HtmlTagUsage": {
