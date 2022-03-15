@@ -1,0 +1,21 @@
+{
+	"status": "success",
+	"data": {
+		"outlines": [
+			[
+				"What does WordPress CMS mean?",
+				"Why is WordPress recommended for blogging?",
+				"Final words"
+			],
+			[
+				"What does WordPress CMS mean 2?",
+				"Why is WordPress recommended for blogging 2?",
+				"Final words 2"
+			]
+		]
+	},
+	"message": [
+		"Generate outline list has been fetched successfully."
+	],
+	"traceCode": ""
+}
