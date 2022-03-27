@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "data": "this is prphrased text",
+    "message": [
+        "Content paraphrased successfully"
+    ],
+    "traceCode": ""
+}
