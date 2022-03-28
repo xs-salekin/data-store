@@ -1,1 +1,8 @@
-
+{
+    "status": "success",
+    "data": "Thank you for your feedback",
+    "message": [
+        "Content paraphrased successfully"
+    ],
+    "traceCode": ""
+}
