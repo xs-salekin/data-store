@@ -1,84 +1,173 @@
 {
     "status": "success",
     "data": {
-        "analysisData": {
-            "searchVolume": {
-                "total": "4.98k",
-                "lastMonth": "120,000",
-                "avg12Month": "242,000",
-                "highest": "22,000",
-                "lowest": "12,000"
-            },
-            "competition": "Low",
-            "cpc": "$ 3.30"
+        "searchVolume": {
+            "total": 390,
+            "competition": "LOW",
+            "cpc": "2.1",
+            "lastMonth": 320,
+            "avg12Month": "368.33",
+            "highest": 480,
+            "lowest": 320
         },
-        "charts": [
+        "chart": {
+            "searchVolTrend": [
+                {
+                    "date": "2/2022",
+                    "volume": 320
+                },
+                {
+                    "date": "1/2022",
+                    "volume": 390
+                },
+                {
+                    "date": "12/2021",
+                    "volume": 320
+                },
+                {
+                    "date": "11/2021",
+                    "volume": 480
+                },
+                {
+                    "date": "10/2021",
+                    "volume": 320
+                },
+                {
+                    "date": "9/2021",
+                    "volume": 320
+                },
+                {
+                    "date": "8/2021",
+                    "volume": 320
+                },
+                {
+                    "date": "7/2021",
+                    "volume": 390
+                },
+                {
+                    "date": "6/2021",
+                    "volume": 390
+                },
+                {
+                    "date": "5/2021",
+                    "volume": 390
+                },
+                {
+                    "date": "4/2021",
+                    "volume": 390
+                },
+                {
+                    "date": "3/2021",
+                    "volume": 390
+                }
+            ],
+            "googleTrend": []
+        },
+        "relatedKeywords": [
             {
-                "title": "Search Vol. Trend",
-                "data": [
-                    { "date": "1/2022", "volume": 27 },
-                    { "date": "12/2021", "volume": 21 },
-                    { "date": "11/2021", "volume": 19 },
-                    { "date": "10/2021", "volume": 14 },
-                    { "date": "9/2021", "volume": 67 },
-                    { "date": "8/2021", "volume": 17 },
-                    { "date": "7/2021", "volume": 13 },
-                    { "date": "6/2021", "volume": 14 },
-                    { "date": "5/2021", "volume": 32 },
-                    { "date": "4/2021", "volume": 21 },
-                    { "date": "3/2021", "volume": 11 },
-                    { "date": "2/2021", "volume": 32 }
-                ]
+                "keyword": "essential addons for elementor",
+                "cpc": "0.670565",
+                "searchVolume": "590"
             },
             {
-                "title": "Google Trends",
-                "data": [
-                    { "date": "12/2021", "volume": 130 },
-                    { "date": "11/2021", "volume": 120 },
-                    { "date": "10/2021", "volume": 150 },
-                    { "date": "6/2021", "volume": 150 },
-                    { "date": "5/2021", "volume": 180 },
-                    { "date": "4/2021", "volume": 190 },
-                    { "date": "3/2021", "volume": 160 },
-                    { "date": "2/2021", "volume": 140 }
-                ]
-            }
-        ],
-        "relatedKeyword": [
-            {
-                "keyword": "Free Blog",
-                "cpc": "$ 40.00",
-                "searchVolume": "Vol. 320.000"
+                "keyword": "ultimate addons for elementor",
+                "cpc": "1.345736",
+                "searchVolume": "390"
             },
             {
-                "keyword": "Blog writing wizard",
-                "cpc": "$ 40.00",
-                "searchVolume": "Vol. 180.000"
+                "keyword": "woolentor",
+                "cpc": "N/A",
+                "searchVolume": "140"
             },
             {
-                "keyword": "Blog writing wizard",
-                "cpc": "$ 40.00",
-                "searchVolume": "Vol. 180.000"
+                "keyword": "premium addons for elementor",
+                "cpc": "N/A",
+                "searchVolume": "210"
             },
             {
-                "keyword": "Blog writing wizard",
-                "cpc": "$ 40.00",
-                "searchVolume": "Vol. 180.000"
+                "keyword": "jetelements",
+                "cpc": "1.179348",
+                "searchVolume": "140"
             },
             {
-                "keyword": "Blog writing wizard",
-                "cpc": "$ 40.00",
-                "searchVolume": "Vol. 180.000"
+                "keyword": "happy addons",
+                "cpc": "0.828625",
+                "searchVolume": "140"
             },
             {
-                "keyword": "Blog writing wizard",
-                "cpc": "$ 40.00",
-                "searchVolume": "Vol. 180.000"
+                "keyword": "essential addons",
+                "cpc": "3.09417",
+                "searchVolume": "260"
+            },
+            {
+                "keyword": "piotnet",
+                "cpc": "8.5556",
+                "searchVolume": "70"
+            },
+            {
+                "keyword": "ultimate addons elementor",
+                "cpc": "N/A",
+                "searchVolume": "140"
+            },
+            {
+                "keyword": "powerpack elementor",
+                "cpc": "N/A",
+                "searchVolume": "70"
+            },
+            {
+                "keyword": "elementor essential addons",
+                "cpc": "3.202875",
+                "searchVolume": "140"
+            },
+            {
+                "keyword": "best elementor addons",
+                "cpc": "2.09938",
+                "searchVolume": "140"
+            },
+            {
+                "keyword": "jet plugins",
+                "cpc": "0.310957",
+                "searchVolume": "90"
+            },
+            {
+                "keyword": "ultimate elementor",
+                "cpc": "N/A",
+                "searchVolume": "110"
+            },
+            {
+                "keyword": "elementor plugins",
+                "cpc": "2.791609",
+                "searchVolume": "590"
+            },
+            {
+                "keyword": "woolentor pro",
+                "cpc": "N/A",
+                "searchVolume": "30"
+            },
+            {
+                "keyword": "the plus addons for elementor",
+                "cpc": "0.350044",
+                "searchVolume": "70"
+            },
+            {
+                "keyword": "essential addons elementor",
+                "cpc": "1.604205",
+                "searchVolume": "90"
+            },
+            {
+                "keyword": "timeline elementor",
+                "cpc": "N/A",
+                "searchVolume": "20"
+            },
+            {
+                "keyword": "premium addons pro",
+                "cpc": "N/A",
+                "searchVolume": "40"
             }
         ]
     },
     "message": [
-        "keyword Analyze list has been fetched successfully."
+        "Competitor list has been fetched successfully "
     ],
-    "traceCode": ""
+    "traceCode": 200
 }
