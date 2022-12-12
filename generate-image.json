@@ -1,1 +1,6 @@
-{"status":"success","data":[{title: 'demo image', url: 'https://picsum.photos/seed/picsum/536/354'}],"message":["Content generated successfully."],"traceCode":""}
+{"status":"success","data":[
+  {title: 'demo image', url: 'https://picsum.photos/seed/picsum/536/354'},
+  {title: 'another image', url: 'https://images.unsplash.com/photo-1670654271325-6ebd67c165c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1335&q=80'},
+  {title: 'very first image', url: 'https://images.unsplash.com/photo-1670654271355-64de56570441?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2274&q=80'}
+
+],"message":["Content generated successfully."],"traceCode":""}
